@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #343a40; /* 深色背景 */
+    padding: 10px;
+}
+
+header a {
+    color: white; /* 白色文字 */
+    text-decoration: none; /* 去掉下劃線 */
+    padding: 10px;
+}
+
+footer {
+    background-color: #343a40; /* 深色背景 */
+    color: white; /* 白色文字 */
+    padding: 20px;
+}
+
+footer a {
+    color: white; /* 白色文字 */
+}

@@ -1,0 +1,18 @@
+/* checkout.css */
+body {
+    background-color: #f8f8f8;
+}
+
+.checkout-container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.submit-btn {
+    padding: 10px;
+    font-size: 18px;
+    width: 100%;
+}
